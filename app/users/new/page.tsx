@@ -1,8 +1,8 @@
-
+import React from 'react'
 
 const NewUserPage = () => {
   return (
-    <div>NewUsersPage</div>
+    <div>NewUserPage</div>
   )
 }
 
